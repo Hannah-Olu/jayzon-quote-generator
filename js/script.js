@@ -134,7 +134,7 @@ function resetTimer() {
     intervalID = setInterval(printQuote, CHANGE_INTERVAL);
   }
 
-}
+} 
 
 function printQuote() {
 
